@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace EstruturasRepeticao
 {
@@ -11,7 +11,7 @@ namespace EstruturasRepeticao
             while (x <= 10)
             {
                 Console.WriteLine(x);
-               ;
+                x++;
             }
 
 
