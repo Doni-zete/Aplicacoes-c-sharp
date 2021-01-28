@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace EstruturasConsole
 {
@@ -9,23 +9,19 @@ namespace EstruturasConsole
         static void Main()
 
         {
-            int x = 20;
+            int x = 3;
             if (x > 5)
-           
+            {
                 Console.WriteLine("Numero maior que 5");
-           
+            }
             else
-            
+            {
                 Console.WriteLine("Numero não e maior que 5");
 
-           
+            }
             Console.WriteLine("Fim do programa");
         }
     }
 }
-
-
-
-
 
 
