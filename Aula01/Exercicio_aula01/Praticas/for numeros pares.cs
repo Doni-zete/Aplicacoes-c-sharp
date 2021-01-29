@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace EstruturasRepeticao
 {
@@ -10,7 +10,7 @@ namespace EstruturasRepeticao
             {
                 if (i % 2 != 0)
                 {
-                    break;
+                    continue;
                 }
                 Console.WriteLine(i);
 
@@ -18,9 +18,3 @@ namespace EstruturasRepeticao
         }
     }
 }
-
-
-
-
-
-
