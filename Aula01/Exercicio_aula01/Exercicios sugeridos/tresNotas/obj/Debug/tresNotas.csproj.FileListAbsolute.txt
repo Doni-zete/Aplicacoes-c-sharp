@@ -1,0 +1,7 @@
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\tresNotas\bin\Debug\tresNotas.exe.config
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\tresNotas\bin\Debug\tresNotas.exe
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\tresNotas\bin\Debug\tresNotas.pdb
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\tresNotas\obj\Debug\tresNotas.csprojAssemblyReference.cache
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\tresNotas\obj\Debug\tresNotas.csproj.CoreCompileInputs.cache
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\tresNotas\obj\Debug\tresNotas.exe
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\tresNotas\obj\Debug\tresNotas.pdb
