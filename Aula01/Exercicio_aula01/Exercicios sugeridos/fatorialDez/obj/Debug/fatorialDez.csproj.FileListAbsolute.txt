@@ -1,0 +1,7 @@
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\fatorialDez\bin\Debug\fatorialDez.exe.config
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\fatorialDez\bin\Debug\fatorialDez.exe
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\fatorialDez\bin\Debug\fatorialDez.pdb
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\fatorialDez\obj\Debug\fatorialDez.csprojAssemblyReference.cache
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\fatorialDez\obj\Debug\fatorialDez.csproj.CoreCompileInputs.cache
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\fatorialDez\obj\Debug\fatorialDez.exe
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\fatorialDez\obj\Debug\fatorialDez.pdb
