@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "completarQuatroTarefas", ".
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fatorialDez", "..\fatorialDez\fatorialDez.csproj", "{695283C0-BF3D-4B6F-B25B-F5DE5379C1EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "..\Fibonacci\Fibonacci.csproj", "{C6DA84E8-B072-417D-B086-65C979253443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "valordeXeY", "..\valordeXeY\valordeXeY.csproj", "{496C79D9-236A-4036-84DC-55B43C2AC5FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +40,14 @@ Global
 		{695283C0-BF3D-4B6F-B25B-F5DE5379C1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{695283C0-BF3D-4B6F-B25B-F5DE5379C1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{695283C0-BF3D-4B6F-B25B-F5DE5379C1EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6DA84E8-B072-417D-B086-65C979253443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DA84E8-B072-417D-B086-65C979253443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DA84E8-B072-417D-B086-65C979253443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DA84E8-B072-417D-B086-65C979253443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{496C79D9-236A-4036-84DC-55B43C2AC5FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496C79D9-236A-4036-84DC-55B43C2AC5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496C79D9-236A-4036-84DC-55B43C2AC5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496C79D9-236A-4036-84DC-55B43C2AC5FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -19,18 +19,18 @@ namespace fatorialDez
             }
 
             Console.WriteLine("O fatorial de " + valor + " é igual a " + resposta);
-        }
 
-         static long calcularFatorial(int num)
-        {
-            if (num == 0)
+            static long calcularFatorial(int num)
             {
-                // Para num == 0, o fatorial é 1.
-                return 1;
-            }
+                if (num == 0)
+                {
+                    // Para num == 0, o fatorial é 1.
+                    return 1;
+                }
 
-            // Caso contrário, o fatorial é o número multiplicado pelo fatorial do seu antecessor.
-            return num * calcularFatorial(num - 1);
+                // Caso contrário, o fatorial é o número multiplicado pelo fatorial do seu antecessor.
+                return num * calcularFatorial(num - 1);
+            }
         }
     }
 }
