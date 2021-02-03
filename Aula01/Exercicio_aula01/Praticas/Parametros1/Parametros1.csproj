@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CF92F0FE-653E-46FA-849C-E9F65B7C4ACE}</ProjectGuid>
+    <ProjectGuid>{098DB823-A73F-440F-8DDB-F83AE35F329A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ClassesObjetos</RootNamespace>
-    <AssemblyName>ClassesObjetos</AssemblyName>
+    <RootNamespace>Parametros1</RootNamespace>
+    <AssemblyName>Parametros1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ContaBancaria.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

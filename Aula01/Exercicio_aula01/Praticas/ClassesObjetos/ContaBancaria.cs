@@ -15,7 +15,7 @@ namespace ClassesObjetos
 
         public void Depositar(double valor)
         {
-            saldo -= valor;
+            saldo += valor;
 
         }
 
