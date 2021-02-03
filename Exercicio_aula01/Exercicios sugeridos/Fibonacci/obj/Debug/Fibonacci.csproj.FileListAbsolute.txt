@@ -1,0 +1,7 @@
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\Fibonacci\obj\Debug\Fibonacci.pdb
