@@ -8,15 +8,19 @@ namespace Nullable
         {
             int? n = null;
 
-            if (n==null)
+            if (n == 10)
             {
-                Console.WriteLine("Valor nulo");
+                //Console.WriteLine("Valor nulo");
             }
 
-            if(n.HasValue)
+            if (!n.HasValue)
             {
-                Console.WriteLine("Valor nulo");
+                //Console.WriteLine("Valor nulo");
             }
+
+            int x = n ?? 0;
+
+            Console.WriteLine(x);
         }
     }
 }
