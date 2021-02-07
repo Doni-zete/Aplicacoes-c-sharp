@@ -8,7 +8,7 @@ namespace Sobrecarga
         static void Main()
         {
             Matematica m = new Matematica();
-            int r1 = m.Somar(10,6,5);
+        double r1 = m.Somar(5.5 ,8);
             Console.WriteLine(r1);
 
         }
@@ -16,9 +16,9 @@ namespace Sobrecarga
 
     class Matematica
     {
-        public int Somar (int a, int b)
+        public int Somar(int a, int b)
         {
-            Console.Write("[int, int]");
+            Console.WriteLine("[int, int]");
 
             return a + b;
         }
@@ -27,15 +27,19 @@ namespace Sobrecarga
         {
             Console.Write("[int, int,int]");
 
-            return a + b+ c;
+            return a + b + c;
         }
 
 
         public double Somar(double a, double b)
         {
+
+            Console.WriteLine("[double,double]");
             return a + b;
         }
-        public long Somar (long a, long b)
+
+        
+        public long Somar(long a, long b)
         {
             Console.WriteLine("[long,long]");
             return a + b;

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp.csproj", "{DF7BB741-0044-4F47-ADEF-ACB316FB80CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9391008E-8122-4E03-863C-130174FF9528}"
+	ProjectSection(SolutionItems) = preProject
+		matematica.cs = matematica.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF7BB741-0044-4F47-ADEF-ACB316FB80CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7BB741-0044-4F47-ADEF-ACB316FB80CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7BB741-0044-4F47-ADEF-ACB316FB80CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7BB741-0044-4F47-ADEF-ACB316FB80CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F3C4543-DDC6-4E6F-A030-F8991DB57269}
+	EndGlobalSection
+EndGlobal
