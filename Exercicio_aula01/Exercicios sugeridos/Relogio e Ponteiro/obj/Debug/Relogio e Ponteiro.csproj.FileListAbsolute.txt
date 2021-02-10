@@ -1,0 +1,7 @@
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\Relogio e Ponteiro\bin\Debug\Relogio e Ponteiro.exe.config
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\Relogio e Ponteiro\bin\Debug\Relogio e Ponteiro.exe
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\Relogio e Ponteiro\bin\Debug\Relogio e Ponteiro.pdb
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\Relogio e Ponteiro\obj\Debug\Relogio e Ponteiro.csprojAssemblyReference.cache
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\Relogio e Ponteiro\obj\Debug\Relogio e Ponteiro.csproj.CoreCompileInputs.cache
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\Relogio e Ponteiro\obj\Debug\Relogio e Ponteiro.exe
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\Relogio e Ponteiro\obj\Debug\Relogio e Ponteiro.pdb

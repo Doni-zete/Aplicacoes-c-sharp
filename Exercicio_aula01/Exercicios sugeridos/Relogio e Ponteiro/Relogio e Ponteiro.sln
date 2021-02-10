@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relogio e Ponteiro", "Relogio e Ponteiro.csproj", "{E6E35440-1B43-4C55-A420-4D5FF8E3F8DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6E35440-1B43-4C55-A420-4D5FF8E3F8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E35440-1B43-4C55-A420-4D5FF8E3F8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E35440-1B43-4C55-A420-4D5FF8E3F8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E35440-1B43-4C55-A420-4D5FF8E3F8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02F7CCCF-33D2-4C23-A592-9B8EE413F06A}
+	EndGlobalSection
+EndGlobal

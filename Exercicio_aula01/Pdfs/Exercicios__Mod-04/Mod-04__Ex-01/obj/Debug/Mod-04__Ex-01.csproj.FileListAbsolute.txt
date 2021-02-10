@@ -1,0 +1,13 @@
+C:\VisualStudio\Mod-04__Ex-01\bin\Debug\Mod-04__Ex-01.exe.config
+C:\VisualStudio\Mod-04__Ex-01\bin\Debug\Mod-04__Ex-01.exe
+C:\VisualStudio\Mod-04__Ex-01\bin\Debug\Mod-04__Ex-01.pdb
+C:\VisualStudio\Mod-04__Ex-01\obj\Debug\Mod-04__Ex-01.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Mod-04__Ex-01\obj\Debug\Mod-04__Ex-01.exe
+C:\VisualStudio\Mod-04__Ex-01\obj\Debug\Mod-04__Ex-01.pdb
+C:\Users\Donii\Downloads\Exercicios__Mod-04\Mod-04__Ex-01\bin\Debug\Mod-04__Ex-01.exe.config
+C:\Users\Donii\Downloads\Exercicios__Mod-04\Mod-04__Ex-01\bin\Debug\Mod-04__Ex-01.exe
+C:\Users\Donii\Downloads\Exercicios__Mod-04\Mod-04__Ex-01\bin\Debug\Mod-04__Ex-01.pdb
+C:\Users\Donii\Downloads\Exercicios__Mod-04\Mod-04__Ex-01\obj\Debug\Mod-04__Ex-01.csprojAssemblyReference.cache
+C:\Users\Donii\Downloads\Exercicios__Mod-04\Mod-04__Ex-01\obj\Debug\Mod-04__Ex-01.csproj.CoreCompileInputs.cache
+C:\Users\Donii\Downloads\Exercicios__Mod-04\Mod-04__Ex-01\obj\Debug\Mod-04__Ex-01.exe
+C:\Users\Donii\Downloads\Exercicios__Mod-04\Mod-04__Ex-01\obj\Debug\Mod-04__Ex-01.pdb
