@@ -8,7 +8,7 @@ namespace Construtores
         static void Main()
         {
 
-            Salario s = new Salario();
+            Salario s = new Salario(2000,0.2,5);
 
             Console.WriteLine(s.valor);
             Console.WriteLine(s.mes);
@@ -21,10 +21,19 @@ namespace Construtores
         public int mes;
         public Salario(double valor, double bonus)
         {
-            Console.WriteLine("Criando objeto");
-
+            Console.WriteLine("Criando objeto(2)");
             this.valor = valor + valor * bonus;
+        }
 
+        public Salario(double valor, double bonus,int mes):this(valor,bonus)
+        {
+            Console.WriteLine("Criando objeto(3)");
+            this.mes = mes;
+            this.valor = valor + valor * bonus;
+        }
+        public Salario()
+        {
+            Console.WriteLine("Criando objeto(0)");
         }
         public void MostrarValor()
         {
