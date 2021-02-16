@@ -8,22 +8,32 @@ namespace @static
         static void Main()
         {
             Bola b1 = new Bola();
-            Console.WriteLine(b1.numBolas);
             Bola b2 = new Bola();
-            Console.WriteLine(b2.numBolas);
             Bola b3 = new Bola();
-            Console.WriteLine(b3.numBolas);
+           // Console.WriteLine(Bola.numBolas);
+
+          
+            int r= Matematica.Somar(20, 3);
+            Console.WriteLine(r);
+
+
+
         }
     }
     class Bola
     {
-        public int numBolas;
+        public static int numBolas;
         public Bola()
         {
             numBolas++;
         }
+    }
 
-
-
+        class Matematica 
+        { 
+            public static int Somar(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
