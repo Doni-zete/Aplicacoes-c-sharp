@@ -7,13 +7,11 @@ namespace TrianguloQCT
     {
         static void Main()
         {
-
             Triangulo tr = new Triangulo();
             tr.@base = 2.5;
             tr.altura = 4;
             double area = tr.CalcularArea();
             Console.WriteLine("Area do triangulo " + area);
-
 
             Quadrado q = new Quadrado();
             q.lado = 3.2;
@@ -25,7 +23,12 @@ namespace TrianguloQCT
             area = c.CalcularArea();
             Console.WriteLine("Area da circunferencia: " + area);
 
-
+            Trapezio t =new  Trapezio();
+            t.baseMaior = 20;
+            t.baseMenor = 5;
+            t.altura = 6;
+             area = t.CalcularArea();
+            Console.WriteLine("Area do tapezio e: " + area); 
 
         }
     }
@@ -39,7 +42,6 @@ namespace TrianguloQCT
             return area;
         }
     }
-
         class Quadrado
         {
             public double lado;
@@ -56,6 +58,18 @@ namespace TrianguloQCT
         public double CalcularArea()
         {
             double  area= Math.PI  * raio * raio;
+            return area;
+        }
+
+    }
+    class Trapezio
+    {
+        public double baseMaior;
+        public double baseMenor;
+        public double altura;
+        public double CalcularArea()
+        {
+            double area = ((baseMaior + baseMenor) / 2)*altura;
             return area;
         }
 
