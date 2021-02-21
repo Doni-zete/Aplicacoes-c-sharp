@@ -15,9 +15,9 @@ namespace TrianguloQCT
             Console.WriteLine("Area do triangulo " + area);
 
             Quadrado q = new Quadrado();
-            q.lado = 3.5;
+            q.lado = 3.2;
             area = q.CalcularArea();
-            Console.WriteLine("Area do quadrado e " + area);
+            Console.WriteLine("Área quadrado: " + area);
         }
     }
 
@@ -42,5 +42,6 @@ namespace TrianguloQCT
 
 
         }
+
     }
-}
+    }
