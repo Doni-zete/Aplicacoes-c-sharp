@@ -1,0 +1,7 @@
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\TrianguloQuadradoCircunferenciaTrapezio\TrianguloQCT\TrianguloQCT\obj\Debug\TrianguloQCT.csprojAssemblyReference.cache
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\TrianguloQuadradoCircunferenciaTrapezio\TrianguloQCT\TrianguloQCT\obj\Debug\TrianguloQCT.csproj.CoreCompileInputs.cache
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\TrianguloQuadradoCircunferenciaTrapezio\TrianguloQCT\TrianguloQCT\bin\Debug\TrianguloQCT.exe.config
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\TrianguloQuadradoCircunferenciaTrapezio\TrianguloQCT\TrianguloQCT\bin\Debug\TrianguloQCT.exe
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\TrianguloQuadradoCircunferenciaTrapezio\TrianguloQCT\TrianguloQCT\bin\Debug\TrianguloQCT.pdb
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\TrianguloQuadradoCircunferenciaTrapezio\TrianguloQCT\TrianguloQCT\obj\Debug\TrianguloQCT.exe
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\TrianguloQuadradoCircunferenciaTrapezio\TrianguloQCT\TrianguloQCT\obj\Debug\TrianguloQCT.pdb
