@@ -1,0 +1,7 @@
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\SistemaEscolarMedias\SistemaEscolarMedias\obj\Debug\SistemaEscolarMedias.csprojAssemblyReference.cache
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\SistemaEscolarMedias\SistemaEscolarMedias\obj\Debug\SistemaEscolarMedias.csproj.CoreCompileInputs.cache
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\SistemaEscolarMedias\SistemaEscolarMedias\bin\Debug\SistemaEscolarMedias.exe.config
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\SistemaEscolarMedias\SistemaEscolarMedias\bin\Debug\SistemaEscolarMedias.exe
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\SistemaEscolarMedias\SistemaEscolarMedias\bin\Debug\SistemaEscolarMedias.pdb
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\SistemaEscolarMedias\SistemaEscolarMedias\obj\Debug\SistemaEscolarMedias.exe
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Exercicio_aula01\Exercicios sugeridos\SistemaEscolarMedias\SistemaEscolarMedias\obj\Debug\SistemaEscolarMedias.pdb
