@@ -18,6 +18,10 @@ namespace SistemaEscolarMedias
             m.notamediaturma = notaMA1;
             double notaMedTurmaa1 = m.CalcularMediaTurma();
             Console.WriteLine("A media da turma e: " + notaMedTurmaa1);
+
+            NotaTotal t = new NotaTotal();
+            t Notastotais =
+
         }
 
 
