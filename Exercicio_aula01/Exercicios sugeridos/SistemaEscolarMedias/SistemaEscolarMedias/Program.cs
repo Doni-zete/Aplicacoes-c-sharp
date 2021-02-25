@@ -20,7 +20,10 @@ namespace SistemaEscolarMedias
             Console.WriteLine("A media da turma e: " + notaMedTurmaa1);
 
             NotaTotal t = new NotaTotal();
-            t Notastotais =
+           t. notatotat = notaParte1 + notaParte2 + notaParte3 + notaParte4;
+            t.Notastotais = notatotat;
+            double nottotalgeral = t.CalcularNotaTotal();
+
 
         }
 
@@ -45,6 +48,16 @@ namespace SistemaEscolarMedias
             {
                 double notaMedTurmaa1 = (notamediaturma + notamediaturma) / 2;
                 return notaMedTurmaa1;
+            }
+
+
+            class NotaTotal
+            {
+                public double Notastotais;
+                public double CalcularNotaTotal()
+                {
+                    double nottotalgeral =()
+                }
             }
 
         }
