@@ -10,12 +10,12 @@ namespace Proprierties.Endereco
 
             Endereco e = new Endereco();
             e.Logradouro = "R. dos Programadores";
-            e.numero = 250;
-            e.apartamento = true;
+            e.Numero = 250;
+            e.Apartamento = true;
 
         }
     }
-class Endereco
+    class Endereco
     {
         private string logradouro;
         private int numero;
@@ -29,10 +29,38 @@ class Endereco
             }
             set
             {
-                logradouro = value;
+                if (value != null)
+                {
+                    logradouro = value;
+                }
+            }
+        }
+            
 
+             public int Numero
+        {
+            get
+            {
+                return numero;
+            }
+            set
+            {
+                numero = value;
+            }
+        }
+        public bool Apartamento
+        {
+            get
+            {
+                return apartamento;
+            }
+            set
+            {
+                apartamento = value;
             }
         }
 
     }
+
 }
+
