@@ -37,8 +37,10 @@ namespace Objctinitializer.Contato
         public void MostrarInfo()
         {
             Console.WriteLine("Nome: " + Nome); 
-            Console.WriteLine("Telefone: ")
-        
+            Console.WriteLine("Telefone: "+Telefone)
+            Console.WriteLine("Telefone: " + Telefone)
+
+
         }
             }
 
