@@ -18,7 +18,7 @@ namespace Objctinitializer.Contato
     public class Contato
     {
         public string Nome { get; set; }
-        public  string telefone { get; set; }
+        public string telefone { get; set; }
         public string Email { get; set; }
         public string Endereco { get; set; }
 
@@ -36,12 +36,12 @@ namespace Objctinitializer.Contato
 
         public void MostrarInfo()
         {
-            Console.WriteLine("Nome: " + Nome); 
-            Console.WriteLine("Telefone: "+Telefone)
-            Console.WriteLine("Telefone: " + Telefone)
+            Console.WriteLine("Nome: " + Nome);
+            Console.WriteLine("Telefone: " + Telefone);
+            Console.WriteLine("Email: " + Email);
 
 
         }
-            }
+    }
 
 }
