@@ -1,15 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace InterfaceGrafica
-{
-    class Program
+    class InterfaceGrafica
     {
-        static void Main(string[] args)
+
+        public void ExibirTexto(string texto)
+        
         {
+        Console.WriteLine(texto); 
         }
     }
-}
+
