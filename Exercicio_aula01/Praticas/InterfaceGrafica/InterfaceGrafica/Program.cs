@@ -6,7 +6,8 @@ namespace Softblue.ProjetoX
     {
         static void Main()
         { 
-            InterfaceGrafica ig = new InterfaceGrafica();
+           Softblue.ProjetoX.Interface.InterfaceGrafica ig = new Softblue.ProjetoX.Interface.InterfaceGrafica();
+            Softblue.ProjetoX.Util.Matematica m = new Softblue.ProjetoX.Util.Matematica();
     }
 }
 }
