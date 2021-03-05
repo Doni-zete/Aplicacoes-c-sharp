@@ -1,19 +1,12 @@
 ﻿using System;
-    class InterfaceGrafica
-    {
 
-        public void ExibirTexto(string texto)
-        
-        {
-        Console.WriteLine(texto); 
-        }
-    }
-
-class Matematica
+namespace Softblue.ProjetoX
 {
-    public int Somar(int a, int b)
+    class program
     {
-        return a + b;
+        static void Main()
+        { 
+            InterfaceGrafica ig = new InterfaceGrafica();
     }
 }
-
+}
