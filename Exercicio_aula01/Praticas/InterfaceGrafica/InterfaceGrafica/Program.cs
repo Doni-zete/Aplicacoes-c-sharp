@@ -1,13 +1,15 @@
 ﻿using System;
-
+using Softblue.ProjetoX.Interface;
+using Softblue.ProjetoX.Util;
 namespace Softblue.ProjetoX
+
 {
-    class program
+    class Program
     {
         static void Main()
-        { 
-           Softblue.ProjetoX.Interface.InterfaceGrafica ig = new Softblue.ProjetoX.Interface.InterfaceGrafica();
-            Softblue.ProjetoX.Util.Matematica m = new Softblue.ProjetoX.Util.Matematica();
+        {
+            InterfaceGrafica ig = new InterfaceGrafica();
+            Matematica m = new Matematica();
+        }
     }
-}
 }

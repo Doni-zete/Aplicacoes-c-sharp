@@ -10,4 +10,6 @@ namespace Softblue.Projetox.Util
             return a + b;
         }
     }
+
+ 
 }
