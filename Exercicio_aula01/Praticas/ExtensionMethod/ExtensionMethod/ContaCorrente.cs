@@ -9,7 +9,7 @@ namespace ExtensionMethod
         public int Agencia { get; private set; }
         public  string Titular { get;set; }
 
-        private double saldo;
+        public double saldo { get;private set; }
 
         public ContaCorrente(int numConta, int agencia)
         {
