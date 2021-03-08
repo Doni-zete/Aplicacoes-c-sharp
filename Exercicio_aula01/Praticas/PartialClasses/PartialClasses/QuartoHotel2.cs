@@ -1,13 +1,12 @@
-﻿
-namespace PartialClasses
+﻿namespace PartialClasses
 {
-    partial Class QuartoHotel
+    partial class QuartoHotel
     {
         public void Reservar()
-    {
+        {
+        }
+        public void CancelarReserva()
+        {
+        }
     }
-    public void CancelarReserva()
-    {
-    }
-}
 }

@@ -2,7 +2,7 @@
 
 namespace PartialClasses
 {
-    class QuartoHotel
+   partial class QuartoHotel
     {
         public int Numero { get; set; }
         public int Andar { get; set; }
