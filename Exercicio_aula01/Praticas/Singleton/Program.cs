@@ -5,11 +5,11 @@ namespace Singleton
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Gerenciador g1 = new Gerenciador();
-            Gerenciador g2 = new Gerenciador();
-            Gerenciador g3 = new Gerenciador();
+            Gerenciador g1 = Gerenciador.Instance;
+            Gerenciador g2 = Gerenciador.Instance;
+            Gerenciador g3 = Gerenciador.Instance;
         }
     }
 }
