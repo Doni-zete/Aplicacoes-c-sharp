@@ -9,7 +9,7 @@ namespace Singleton
         {
             Gerenciador g1 = Gerenciador.Instance;
             Gerenciador g2 = Gerenciador.Instance;
-            Gerenciador g3 = Gerenciador.Instance;
+            Gerenciador g = Gerenciador.Instance;
         }
     }
 }
