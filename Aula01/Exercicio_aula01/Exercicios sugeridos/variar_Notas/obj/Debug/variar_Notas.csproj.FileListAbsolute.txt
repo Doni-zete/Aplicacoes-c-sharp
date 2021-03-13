@@ -1,7 +1,0 @@
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\variar_Notas\bin\Debug\variar_Notas.exe.config
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\variar_Notas\bin\Debug\variar_Notas.exe
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\variar_Notas\bin\Debug\variar_Notas.pdb
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\variar_Notas\obj\Debug\variar_Notas.csproj.CoreCompileInputs.cache
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\variar_Notas\obj\Debug\variar_Notas.exe
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\variar_Notas\obj\Debug\variar_Notas.pdb
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\variar_Notas\obj\Debug\variar_Notas.csprojAssemblyReference.cache

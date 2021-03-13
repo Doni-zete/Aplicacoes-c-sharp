@@ -1,7 +1,0 @@
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\completarQuatroTarefas\bin\Debug\completarQuatroTarefas.exe.config
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\completarQuatroTarefas\bin\Debug\completarQuatroTarefas.exe
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\completarQuatroTarefas\bin\Debug\completarQuatroTarefas.pdb
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\completarQuatroTarefas\obj\Debug\completarQuatroTarefas.csprojAssemblyReference.cache
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\completarQuatroTarefas\obj\Debug\completarQuatroTarefas.csproj.CoreCompileInputs.cache
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\completarQuatroTarefas\obj\Debug\completarQuatroTarefas.exe
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\Aplicacoes-C-Sharpp\Aplicacoes-C-Sharp\Aula01\Exercicio_aula01\Exercicios sugeridos\completarQuatroTarefas\obj\Debug\completarQuatroTarefas.pdb

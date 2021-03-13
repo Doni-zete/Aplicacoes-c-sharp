@@ -1,2 +1,0 @@
-# Aplicacoes-C-Sharp
- 
