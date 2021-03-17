@@ -1,15 +1,18 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Heranca
 {
-    class Program
+    class Animal
     {
-        static void Main(string[] args)
+        public double Altura { get; set; }
+        public double Peso { get; set; }
+
+        public void Mover()
         {
+            Console.WriteLine("Animal se moveu"); ;
         }
+        public void MostrarDados()
+        { Console.WriteLine("Altura =" + Altura + "Peso ="+ Peso);
     }
 }
