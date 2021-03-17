@@ -3,16 +3,21 @@
 
 namespace Heranca
 {
-    class Animal
+    class Program
     {
-        public double Altura { get; set; }
-        public double Peso { get; set; }
+       
 
-        public void Mover()
+        static void Main()
         {
-            Console.WriteLine("Animal se moveu"); ;
+            Animal a = new Animal();
+            a.Peso = 4;
+            a.Altura = 0.8;
+
+            a.Mover();
+            a.MostrarDados();
+
+
         }
-        public void MostrarDados()
-        { Console.WriteLine("Altura =" + Altura + "Peso ="+ Peso);
+     
     }
 }
