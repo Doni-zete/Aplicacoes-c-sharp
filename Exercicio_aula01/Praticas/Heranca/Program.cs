@@ -9,12 +9,15 @@ namespace Heranca
 
         static void Main()
         {
-            Animal a = new Animal();
+            //Animal a = new Animal();
+            Cachorro a = new Cachorro();
+
             a.Peso = 4;
             a.Altura = 0.8;
 
             a.Mover();
             a.MostrarDados();
+            a.Latir();
 
 
         }
