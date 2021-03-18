@@ -3,10 +3,12 @@
 
 namespace Heranca
 {
-    class Animal
+    sealed class Animal
     {
         public double Altura { get; set; }
         public double Peso { get; set; }
+        protected string nome;
+
 
         public void Mover()
         {
@@ -14,7 +16,7 @@ namespace Heranca
         }
         public void MostrarDados()
         {
-            Console.WriteLine("Altura =" + Altura + "Peso =" + Peso);
+            Console.WriteLine("Altura =" + Altura + "Peso =" );
         }
     }
 }

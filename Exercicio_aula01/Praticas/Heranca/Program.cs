@@ -14,6 +14,7 @@ namespace Heranca
 
             a.Peso = 4;
             a.Altura = 0.8;
+            a.nome = "Sheila";
 
             a.Mover();
             a.MostrarDados();
