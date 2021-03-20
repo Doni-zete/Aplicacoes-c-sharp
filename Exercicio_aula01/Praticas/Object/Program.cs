@@ -1,15 +1,22 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Object
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            Carro c = new Carro();
+            c.Marca = "Ferrari";
+            c.Ano = 200;
+
+            stringc.ToString();
         }
+    }
+
+    public class Carro :
+        {
+        public string Marca { get; set; }
+        public int Ano { get;set }
     }
 }
