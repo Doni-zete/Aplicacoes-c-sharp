@@ -18,4 +18,10 @@ namespace Interfaces
         void Ligar();
         string NomeMotor { get; set; }
     }
+
+    public class Carro :IMotorizado
+    {
+
+    }
+
 }
