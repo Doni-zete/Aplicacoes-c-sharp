@@ -13,15 +13,20 @@ namespace Interfaces
         }
     }
 
-    public interface Motorizado
+    public interface IMotorizado
     {
         void Ligar();
         string NomeMotor { get; set; }
     }
 
-    public class Carro :IMotorizado
+    public class Carro : IMotorizado
     {
+        public string NomeMotor { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
+        public void Ligar()
+        {
+            throw new NotImplementedException();
+        }
     }
 
 }
