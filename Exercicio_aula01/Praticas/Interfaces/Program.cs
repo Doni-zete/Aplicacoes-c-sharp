@@ -21,7 +21,7 @@ namespace Interfaces
 
     public class Carro : IMotorizado
     {
-        public string NomeMotor { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public string NomeeMotor { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
         public void Ligar()
         {
