@@ -11,11 +11,9 @@ namespace Polimorfismo
         static void Main()
         {
 
-            Cachorro c = new Cachorro();
-            c.Falar();
+            Animal a = new Gato();
+            a.Falar();
 
-            Gato g = new Gato();
-            g.Falar();
 
         }
     }
@@ -39,10 +37,11 @@ namespace Polimorfismo
 
 
     public class Gato : Animal
-
-
-    public override void Falar()
     {
-        Console.WriteLine("MIAU");
+
+        public override void Falar()
+        {
+            Console.WriteLine("MIAU");
+        }
     }
 }
