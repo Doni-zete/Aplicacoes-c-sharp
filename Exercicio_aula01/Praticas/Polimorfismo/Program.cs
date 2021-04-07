@@ -12,8 +12,25 @@ namespace Polimorfismo
         {
 
             Animal a = new Gato();
-            a.Falar();
+            //if( a is Cachorro)
+            //{
 
+            //    Cachorro c = (Cachorro)a;
+            //    c.Morder();
+            //}
+            //else
+            //{
+            //    Console.WriteLine("o casting não pode ser feito");
+            //}
+            Cachorro c = a as Cachorro;
+            if (c != null)
+            {
+                c.Morder();
+            }
+            else
+            {
+                Console.WriteLine("o casting não pode ser feito");
+            }
 
         }
     }
@@ -31,6 +48,11 @@ namespace Polimorfismo
         {
             Console.WriteLine("AU-AU");
         }
+        public void Morder()
+        {
+            Console.WriteLine("nhaque");
+        }
+
     }
 
 
